@@ -1,0 +1,4 @@
+transformers>=4.30.0
+torch>=2.0.0
+PyPDF2>=3.0.0
+streamlit>=1.25.0
